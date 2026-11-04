@@ -1,0 +1,17 @@
+
+# Python
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Next.js
+.next/
+node_modules/
+out/
+
+# Local database
+backend/heater_energy.db
+
+# System files
+.DS_Store
